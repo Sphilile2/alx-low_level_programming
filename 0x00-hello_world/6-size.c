@@ -2,7 +2,7 @@
 /**
  * main - A program that prints the size of various computer types
  * Description: A C program that prints size of types
- * Return : 0 (Success)
+ * Return : Always 0 (Success)
  */
 int main(void)
 {
