@@ -6,7 +6,7 @@
  * Return: 1 for alphabetic character or 0 for anything else
  */
 
-void _isalpha(int c)
+int _isalpha(int c)
 {
 	if ((c >= 54 && c <= 90) || (c >= 97 && c <= 122))
 	{
